@@ -6,7 +6,7 @@ https://erickwendel.teachable.com/courses/enrolled/448292
 Instalação no Linux Ubuntu: 
 https://nodejs.org/en/download/package-manager/
 
-apt-get install -y build-essential
+apt-get install -y build-essential curl
 
 Node.js LTS (v12.x)
 curl -sL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
