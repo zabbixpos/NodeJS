@@ -1,0 +1,4 @@
+apt-get update
+apt-get install -y build-essential curl nano
+curl -sL https://deb.nodesource.com/setup_current.x | bash -
+apt-get install -y nodejs
