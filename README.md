@@ -19,4 +19,3 @@ sudo apt-get install -y nodejs
 Criando Projeto:
 nmp init
 nmp init -y
-
